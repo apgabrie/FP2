@@ -1,7 +1,9 @@
 
 ### My Library: 2htdp
 
-This time I just did some really simple stuff using the 2htdp library. 
+This time I just did some really simple stuff using the 2htdp library. I looked at the sample code and, using the "planet cute" images from 2htdp/planetcute, made a little thing where the catgirl character moves across the screen for a little bit before stoping.
+
+![](/images/secondpart.png)
 
 ```
 #lang racket
